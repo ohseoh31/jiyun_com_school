@@ -1,6 +1,14 @@
-# nlp_rest
+# C programmin
 
-- venv 설정 참고 URL
-```  
- https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/
-```  
+Chapter 6. 포인터(Pointer) 
+
+Chapter 7. 함수(function)
+
+   - Windows 2003
+   - Windows XP
+   - Windows Vista
+   - Windows 7
+   - Windows Server 2008
+   - Windows Server 2008 R2
+
+Chapter 8. 포인터와 함수(function)
